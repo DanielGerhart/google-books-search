@@ -1,5 +1,5 @@
 {
-  "name": "mern",
+  "name": "Daniel",
   "version": "1.0.0",
   "description": "react based google book search",
   "main": "server.js",
@@ -19,6 +19,7 @@
     "concurrently": "^4.1.0",
     "nodemon": "^1.18.7"
   },
+  
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
@@ -32,6 +33,10 @@
     "react-router-dom": "^5.0.0",
     "react-scripts": "^2.1.8",
     "react-toastify": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
